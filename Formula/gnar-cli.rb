@@ -1,6 +1,6 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
-class Getfilesize < Formula
+class GnarCli < Formula
   desc 'Decorate your Apps with Gnarly opinions'
   homepage 'https://github.com/TheGnarCo/gnar-cli'
   url 'https://github.com/TheGnarCo/gnar-cli/releases/download/v0.0.11/gnar-cli.tar.gz'
