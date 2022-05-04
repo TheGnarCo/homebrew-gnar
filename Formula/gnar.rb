@@ -4,7 +4,7 @@ class Gnar < Formula
   desc 'Decorate your Apps with Gnarly opinions'
   homepage 'https://github.com/TheGnarCo/gnar-cli'
   url 'https://github.com/TheGnarCo/gnar-cli/releases/download/v0.0.11/gnar.tar.gz'
-  sha256 '75612e069c4e0dda9f2139fd17b2fd1fdea761ec502605c00839509b44bc0f69'
+  sha256 'e748ec4dc18864be7f7f3d82fc8544713457ebd0278da83bdb5da3220822eaf2'
   license 'MIT'
   version '0.0.11'
 
