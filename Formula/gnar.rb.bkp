@@ -6,7 +6,7 @@ class Gnar < Formula
   url "foo"
   sha256 "119b80733e13fa36b52df288fa2790124280aa2a33c76329581d4c74dc38ee5c"
   license 'MIT'
-  version "0.0.999"
+  version $VERSION
 
   def install
     bin.install 'gnar'
