@@ -1,13 +1,11 @@
 ## The Gnar-CLI Homebrew Formula
 
-
 This repo is for making the [Gnar-CLI](https://github.com/TheGnarCo/gnar-cli) tool widely available on the [Homebrew](https://brew.sh/) Package Manager.
-
 
 ### install
 
 ```
-hombrew tap thegnarco/gnar
+brew tap thegnarco/gnar
 brew install gnar
 ```
 
